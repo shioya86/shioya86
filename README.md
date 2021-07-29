@@ -12,10 +12,10 @@ Researching computer networks and QoS :)
 -->
 ## statistics
 <a href="https://github.com/shioyarare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shioyarare&hide=issues&show_icons=true&theme=graywhite" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shioyarare&hide=issues&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/shioyarare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&theme=graywhite" />
+  <img widtrh="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&theme=graywhite" />
 </a>
 
 <!--
