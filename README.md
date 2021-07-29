@@ -1,6 +1,22 @@
-### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&hide=GLSL)](https://github.com/shioyarare)
+# Hi there, I'm [shioyarare](https://shioyarare.github.io/portfolio) 👋
+
+[![shioya](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshioya)](https://atcoder.jp/users/shioya)
+[![shioya](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fshioya)](https://codeforces.com/profile/shioya)
+
+Researching computer networks and QoS :)
+<!--
+## contacts
+<div align="center">
+</div>
+-->
+## statistics
+<a href="https://github.com/shioyarare">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shioyarare&hide=issues&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/shioyarare">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&theme=graywhite" />
+</a>
 
 <!--
 **shioyarare/shioyarare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
