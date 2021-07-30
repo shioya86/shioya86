@@ -6,15 +6,15 @@
 
 Researching computer networks and QoS :)
 <!--
-## contacts
+## Contacts
 <div align="center">
 </div>
 -->
-## statistics
+## Statistics
 <div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shioyarare&hide=issues&show_icons=true&theme=graywhite" />
-    <img widtrh="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&theme=graywhite" />
+    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=shioyarare&hide=issues&layout=compact&show_icons=true&theme=graywhite" /><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioyarare&layout=compact&theme=graywhite" />
 </div>
+
 <!--
 **shioyarare/shioyarare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
