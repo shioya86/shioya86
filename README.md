@@ -1,5 +1,5 @@
 
-# Hi there, I'm [shioyarare](https://shioyarare.github.io/portfolio) 👋
+# Hi there, I'm shioyarare 👋
 
 [![shioya](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshioya)](https://atcoder.jp/users/shioya)
 [![shioya](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fshioya)](https://codeforces.com/profile/shioya)
